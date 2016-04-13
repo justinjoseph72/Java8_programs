@@ -1,0 +1,23 @@
+/*
+*************************************************
+File name:		AddTimeCalculator.java
+Author:			Justin
+Date Created:	07-Apr-2016
+Purpose:		
+
+
+
+*************************************************
+*/
+
+package com.justin.date;
+
+public class AddTimeCalculator
+{
+
+	public static void main(String[] args)
+	{
+
+	}
+
+}
